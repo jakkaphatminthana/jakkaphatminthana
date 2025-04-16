@@ -73,3 +73,7 @@ Its first time making a profile in github, might be good
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D2A55,100:6A5ACD&height=100&section=footer"/>
+</p>
+
