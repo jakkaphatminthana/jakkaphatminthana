@@ -9,7 +9,7 @@ Its first time making a profile in github, might be good
 
 <h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
 <h3 align="center">
-  🐱‍👤 JakkaphatCM. - Associate Mobile developer at  <a href="https://www.deeploytech.co/th" target="_blank">Deeploy Technology</a>
+  🐱‍👤 ChampJM. - Associate Mobile developer at  <a href="https://www.deeploytech.co/th" target="_blank">Deeploy Technology</a>
 </h3>
 
 <br>
