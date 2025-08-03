@@ -9,7 +9,7 @@ Its first time making a profile in github, might be good
 
 <h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
 <h3 align="center">
-  🐱‍👤 ChampJM. - Associate Mobile developer at  <a href="https://www.deeploytech.co/th" target="_blank">Deeploy Technology</a>
+  🐱‍👤 ChampJM. - Associate Mobile developer
 </h3>
 
 <br>
@@ -22,8 +22,8 @@ Its first time making a profile in github, might be good
 - 🎓 Graduated in **Computer Science** from [**University of Phayao**](https://www.up.ac.th/)
 - 🔭 I’m currently working as an **Associate Mobile Developer**
 - 🏢 I'm currently working at [**Deeploy Technology**](https://www.deeploytech.co/th)
-- 🌱 I’m currently learning **Golang**
-- 📱 Mobile developer who’s not afraid to jump into backend when needed 
+- 🌱 I’m currently learning **Express.js**
+- 📱  Mobile developer expanding into full-stack development
 - 💻 I believe good code is like good gardening.
 
 ---
@@ -47,16 +47,22 @@ Its first time making a profile in github, might be good
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/></a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/></a>
 </p>
 
 - **BackEnd Dev:**
 <p align="left"> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
-<a href="https://strapi.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/354398/strapi.svg" alt="Strapi" width="40" height="40"/>
-</a>
-
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
+  <a href="https://strapi.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354398/strapi.svg" alt="Strapi" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.acnosoft.com/images/menu/express.png" alt="express" width="40" height="40" style="border-radius:5px; padding:2px;" /></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/></a>
 </p>
 
 - **Mobile Dev:**
