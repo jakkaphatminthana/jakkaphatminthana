@@ -9,7 +9,7 @@ Its first time making a profile in github, might be good
 
 <h1 align="left">Hello 👋, Welcome to my Github Page!</h1>
 <h3 align="center">
-  🐱‍👤 ChampJM. - Associate Mobile developer
+  🐱‍👤 ChampJM. - Mobile & Backend Developer 
 </h3>
 
 <br>
