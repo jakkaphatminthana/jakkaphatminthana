@@ -20,10 +20,10 @@ Its first time making a profile in github, might be good
 </picture>
 
 - 🎓 Graduated in **Computer Science**
-- 🔭 I’m currently working as an **Mobile Developer & Backend Developer**
+- 🔭 Working as a **Mobile & Backend Developer**
+- 💼 3 years in software development
 - 🏢 I'm currently working at [**Deeploy Technology**](https://www.deeploytech.co/th)
 - 🌱 I’m currently learning **Golang**
-- 💼 3 years in software development
 - 💻 I believe good code is like good gardening. 
 
 ---
