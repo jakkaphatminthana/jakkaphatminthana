@@ -19,12 +19,12 @@ Its first time making a profile in github, might be good
   <img align="right" width=40%" src="ttps://github-readme-stats.vercel.app/api?username=jakkaphatminthana&show_icons=true&locale=en&theme=dark">
 </picture>
 
-- 🎓 Graduated in **Computer Science** from [**University of Phayao**](https://www.up.ac.th/)
-- 🔭 I’m currently working as an **Associate Mobile Developer**
+- 🎓 Graduated in **Computer Science**
+- 🔭 I’m currently working as an **Mobile Developer & Backend Developer**
 - 🏢 I'm currently working at [**Deeploy Technology**](https://www.deeploytech.co/th)
-- 🌱 I’m currently learning **Express.js**
-- 📱  Mobile developer expanding into full-stack development
-- 💻 I believe good code is like good gardening.
+- 🌱 I’m currently learning **Golang**
+- 💼 3 years in software development
+- 💻 I believe good code is like good gardening. 
 
 ---
 
